@@ -1,2 +1,9 @@
-# bettery_report_tools
- a simple tool for analyze the bettery of laptop
+# 笔记本电池助手
+[python]一个简单的笔记本工具
+# 功能
+1.自动判断是否在充电  
+2.记录模式：记录电池信息并写入log  
+3.分析模式：分析你的log，计算电池续航等  
+4.制图模式：生成电量统计图（html）  
+# 后记
+早日弃坑，会屑
